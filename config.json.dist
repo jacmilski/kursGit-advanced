@@ -1,5 +1,6 @@
 {
 	"version": "1.2rc3",
 	"enviroment": "dev",
-	"debug": true
+	"debug": true,
+	"author": "Marek"
 }
